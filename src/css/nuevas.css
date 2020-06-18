@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card{
+    margin-bottom:5px;
+}
+.card .card-header{
+    background: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+.card .card-body img{
+    width: 100%;
+}
+.sectionNuevas{
+    background: rgb(250, 250, 250);
+}

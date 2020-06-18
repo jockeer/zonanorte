@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nuevaNotica{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    color: black;
+    background: white;
+    padding: 10px 5px;
+    margin-bottom: 8px;
+    border-radius: 2px;
+}
+.nuevaNotica .titulo{
+    color: black;
+    font-weight: bold;
+}
+.nuevaNotica .subtitulo{
+    color: black;
+    font-size: 17px;
+    
+}
+.nuevaNotica .fecha{
+    color: black;
+    font-size: 14px;
+}
+.nuevaNotica .categoria{
+    color: white;
+    font-weight: bold;
+    background: red;
+    padding: 5px;
+    border-radius: 10px;
+}
+                
